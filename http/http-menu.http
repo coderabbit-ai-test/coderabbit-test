@@ -1,0 +1,6 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+### 메뉴리스트조회
+GET http://localhost:8080/menuList
